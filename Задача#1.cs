@@ -5,7 +5,7 @@ public class Program
 	public static void Main()
 	{
 	int num1;
-    	Console.Write("\n\n");
+    	Console.Write("\n");
    	Console.Write("Введите целое цифру : ");
    	num1 = Convert.ToInt32(Console.ReadLine()); 
     	if (num1 < 7)
